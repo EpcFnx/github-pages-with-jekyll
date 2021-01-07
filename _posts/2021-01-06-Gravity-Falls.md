@@ -1,5 +1,5 @@
 ---
-title: Gravity Falls- Lenguaje de Bill
+title: 'Gravity Falls - Lenguaje de Bill'
 date: 2021-01-06
 ---
 
