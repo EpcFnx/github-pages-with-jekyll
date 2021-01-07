@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Códigos 
 
-I'm glad you are here. I plan to talk about ...
+La recopilación completa y única de códigos secretos hecha por mí. Incluye algunos creados por mí.
